@@ -12,8 +12,8 @@
 ## 📦 INSTALLATION
 
 1. Install the original **Battlefield 3** on PC and make sure you can start the campaign.
-2. Extract the complete mod folder from the Battlefield 3 Discord thread.
-3. Connect your PC VR headset, run **`RUN.bat`** in the mod folder, and select **Campaign → Continue**.
+2. **Put the mod archive next to `bf3.exe`.** Extract the whole archive there and keep the mod folder intact.
+3. Connect your PC VR headset, run **`RUN.bat`** from the extracted mod folder, and select **Campaign → Continue**.
 
 <a name="features"></a>
 
