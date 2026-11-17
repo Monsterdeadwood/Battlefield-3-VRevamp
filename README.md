@@ -2,6 +2,7 @@
 
 > [!IMPORTANT]
 > **[Join Flat2VR for testing and discussion](https://discord.gg/P4q9zt7ek)**
+>
 > Look for the **Battlefield 3** thread for test builds, setup help and feedback.
 
 ![Battlefield 3: VRevamp](vr-banner.png)
