@@ -1,32 +1,32 @@
-# Battlefield 3: VRevamp
-
 > [!IMPORTANT]
-> **[Join Flat2VR for testing and discussion](https://discord.gg/P4q9zt7ek)**
+> **TEST BUILDS & DISCUSSION**
 >
-> Look for the **Battlefield 3** thread for test builds, setup help and feedback.
+> **[Join the Flat2VR Discord](https://discord.gg/P4q9zt7ek)** · **[Open the Battlefield 3 thread](https://discord.com/channels/747967102895390741/1565014042005737623)**
+>
+> Ask for the matching test build and share feedback in the thread.
 
 ![Battlefield 3: VRevamp](vr-banner.png)
 
-VRevamp brings the original **Battlefield 3 single-player campaign** to PC VR, with stereoscopic OpenXR rendering, headset tracking, motion-controlled weapons and changing campaign weather.
+## INSTALLATION
 
-## Getting started
+1. Install the supported original **Battlefield 3** PC build and make sure the campaign starts.
+2. Extract the complete mod folder supplied for your build.
+3. Connect PC VR, run **`RUN.bat`** in the mod folder, and select **Campaign → Continue**.
 
-1. Ask for the current test build and supported game version in the Battlefield 3 thread on Flat2VR.
-2. Install a supported original Battlefield 3 PC build and confirm the campaign starts normally. Extract the full mod folder supplied for testing.
-3. Connect your headset to PC VR and run **`RUN.bat`** inside the mod folder.
-4. Select **Campaign → Continue** in Battlefield 3 to load your own checkpoint. See `CONTROLS.txt` for the controller layout.
+## FEATURES
 
-## What you can try in R77
+### DRAW, SWAP & PICK UP WEAPONS
 
-- Aim with the hand holding the weapon. Grab the fore-end of a supported right-hand weapon for two-handed aiming.
-- Draw and stow weapons at body slots, switch hands, and pull a supported enemy weapon drop into reach to take it with the other hand.
-- Pull and release loose props with your free left hand. Weapon handling resumes after a campaign checkpoint reload in the tested route.
-- See enemy reactions and blood on confirmed hits. Each launch picks a fresh weather seed for the accelerated day/night cycle, fog, clouds, wind, rain and dust.
+Draw from body slots, transfer a weapon between hands, or pull a supported enemy weapon drop into reach and catch it with the other hand.
 
-## Testing scope
+### A DIFFERENT SKY EACH TIME YOU LAUNCH
 
-R77 was tested in the EA campaign’s **Operation Swordbreaker** with XR Sim and XR Tape at **2000 × 2000 per eye**. The test covered checkpoint restart, hand tracking recovery, combat, pickup of a supported M4A1 and matching weather in both eyes. Physical headset testing, wider mission and weapon coverage, and magnifying optics remain open.
+A fresh seed sets the campaign’s fog, clouds, wind, rain and dust. An accelerated day/night cycle changes the scene as you play.
 
-Include your checkpoint, headset, OpenXR runtime and reproduction steps when reporting an issue on Flat2VR. The launcher puts the diagnostic ZIP in `SEND_TO_DISCORD`.
+### TWO-HANDED AIM & A FREE HAND FOR PROPS
+
+Aim your gun with the controller, grab a supported foregrip to steady it, or use your free left hand to pull and release loose props.
+
+R77 was tested in Operation Swordbreaker with XR Sim and XR Tape. The test covers that campaign route.
 
 [Other VR mods by Monsterdeadwood](https://github.com/Monsterdeadwood?tab=repositories) · [Community testing credits](https://github.com/Monsterdeadwood/C2VR/blob/main/TESTERS.md)
